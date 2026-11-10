@@ -34,7 +34,7 @@ When I was designing [FusionBoard](https://github.com/damnitzhemanth-oss/FusionB
 | Operating junction temperature | -40°C to 125°C |
 | Package | VQFN-20, 5 mm × 5 mm |
 
-Checkout [Datasheet](Datasheets\TPS7A4700.pdf) for more details.
+Checkout [Datasheet](Datasheets/TPS7A4700.pdf) for more details.
 
 ### Pin Setting
 
@@ -75,7 +75,7 @@ Checkout [Datasheet](Datasheets\TPS7A4700.pdf) for more details.
 | 15 | TP3 | TestPoint_Pad_D1.5mm | 1 | Out Pad | |
 | 16 | U1 | VQFN-20_L5.0-W5.0-P0.65-TL-EP | 1 | TPS7A4700RGWR | |
 
-Check [Interactive-BOM](Production\BOM\ibom.html) for more insights.
+Check [Interactive-BOM](Production/BOM/ibom.html) for more insights.
 
 ## 4. Repo Navigation
 
