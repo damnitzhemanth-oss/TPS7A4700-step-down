@@ -973,7 +973,7 @@
 				)
 			)
 		)
-		(property "Value" "0PV2"
+		(property "Value" "0P2V"
 			(at 0 4.92 0)
 			(layer "F.Fab")
 			(uuid "0e7a995e-f6ed-44fa-a96c-ad7e5378ca24")

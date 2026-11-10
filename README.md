@@ -120,10 +120,10 @@ TPS7A4700-step-down
 
 ### PCB 
 
-![Schematic](Images\Schematic.png)
-![PCB](Images\PCB_H.png)
-![DRC](Images\DRC.png)
+![Schematic](Images/Schematic.png)
+![PCB](Images/PCB.png)
+![DRC](Images/DRC.png)
 
 ### 3D
 
-![3D](Images\PCB3D.png)
+![3D](Images/PCB3D.png)
