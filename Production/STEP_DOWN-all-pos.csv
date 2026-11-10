@@ -1,0 +1,18 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","10uF","C_0805_2012Metric",89.157712,-70.622500,-90.000000,top
+"C2","10uF","C_0805_2012Metric",86.327712,-67.882500,180.000000,top
+"C3","47uF","C_0805_2012Metric",97.307712,-71.952500,-90.000000,top
+"J1","Ground/Power","PinHeader_1x02_P2.54mm_Vertical",87.567712,-80.722500,90.000000,top
+"J2","6P4V2","PinHeader_1x02_P2.54mm_Vertical",112.347712,-69.347500,0.000000,top
+"J3","6P4V1","PinHeader_1x02_P2.54mm_Vertical",112.347712,-64.192500,180.000000,top
+"J4","3P2V","PinHeader_1x02_P2.54mm_Vertical",104.317712,-57.502500,90.000000,top
+"J5","1P6V","PinHeader_1x02_P2.54mm_Vertical",97.387712,-57.442500,90.000000,top
+"J6","0P8V","PinHeader_1x02_P2.54mm_Vertical",93.052712,-57.352500,-90.000000,top
+"J7","0P4V","PinHeader_1x02_P2.54mm_Vertical",86.027712,-57.332500,-90.000000,top
+"J8","0P1V","PinHeader_1x02_P2.54mm_Vertical",79.227712,-71.232500,0.000000,top
+"J9","0PV2","PinHeader_1x02_P2.54mm_Vertical",79.287712,-63.092500,0.000000,top
+"OUT + 1","Out Pin","PinHeader_1x01_P2.54mm_Vertical",100.907712,-80.872500,-90.000000,top
+"TP1","+ Pad","TestPoint_Pad_D1.5mm",83.107712,-80.802500,90.000000,top
+"TP2","Ground Pad","TestPoint_Pad_D1.5mm",79.537712,-80.712500,90.000000,top
+"TP3","Out Pad","TestPoint_Pad_D1.5mm",107.747712,-80.962500,0.000000,top
+"U1","TPS7A4700RGWR","VQFN-20_L5.0-W5.0-P0.65-TL-EP",93.316962,-67.222500,180.000000,top

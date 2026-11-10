@@ -1,0 +1,17 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1, C2";"C_0805_2012Metric";2;"10uF";;;
+2;"C3";"C_0805_2012Metric";1;"47uF";;;
+3;"J1";"PinHeader_1x02_P2.54mm_Vertical";1;"Ground/Power";;;
+4;"J2";"PinHeader_1x02_P2.54mm_Vertical";1;"6P4V2";;;
+5;"J3";"PinHeader_1x02_P2.54mm_Vertical";1;"6P4V1";;;
+6;"J4";"PinHeader_1x02_P2.54mm_Vertical";1;"3P2V";;;
+7;"J5";"PinHeader_1x02_P2.54mm_Vertical";1;"1P6V";;;
+8;"J6";"PinHeader_1x02_P2.54mm_Vertical";1;"0P8V";;;
+9;"J7";"PinHeader_1x02_P2.54mm_Vertical";1;"0P4V";;;
+10;"J8";"PinHeader_1x02_P2.54mm_Vertical";1;"0P1V";;;
+11;"J9";"PinHeader_1x02_P2.54mm_Vertical";1;"0PV2";;;
+12;"OUT + 1";"PinHeader_1x01_P2.54mm_Vertical";1;"Out Pin";;;
+13;"TP1";"TestPoint_Pad_D1.5mm";1;"+ Pad";;;
+14;"TP2";"TestPoint_Pad_D1.5mm";1;"Ground Pad";;;
+15;"TP3";"TestPoint_Pad_D1.5mm";1;"Out Pad";;;
+16;"U1";"VQFN-20_L5.0-W5.0-P0.65-TL-EP";1;"TPS7A4700RGWR";;;
